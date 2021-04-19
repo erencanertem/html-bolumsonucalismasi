@@ -1,3 +1,3 @@
-#Kodluyoruz HTML eğitimi 
+# Kodluyoruz HTML eğitimi 
 
-##"Bölüm Sonu Çalışması"
+## "Bölüm Sonu Çalışması"
